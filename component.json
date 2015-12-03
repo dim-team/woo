@@ -1,0 +1,9 @@
+{
+   "name": "woo",
+   "version": "1.0.0",
+   "description": "waterfall module",
+   "main": "woo.js",
+   "files": [
+     "woo.css"
+   ]
+}
