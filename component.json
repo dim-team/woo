@@ -1,9 +1,11 @@
 {
    "name": "woo",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "waterfall module",
    "main": "woo.js",
    "files": [
-     "woo.css"
+     "woo.css",
+     "tabswitch.js",
+     "data.js"
    ]
 }

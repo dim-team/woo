@@ -3,7 +3,8 @@
 */
 
 
-
+require('tabswitch.js');
+require('data.js');
 ;(function(window, undefined){
 
 
@@ -280,7 +281,6 @@
       this.setClickGoPre(),
       this.setClickGoNext(),
       this.setClickGoTop();
-
 
       // 处理 window scroll 事件
       $W.unbind('scroll.woo').bind('scroll.woo',Woo._winScroll),
